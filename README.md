@@ -1,2 +1,2 @@
-# node-typescript-api
+# Node Typescript API
 A API with Node JS, Typescript and more...
